@@ -1,0 +1,9 @@
+
+[font.normal]
+family = "Inconsolata Nerd Font"
+
+[general]
+import = ["/home/fredrik/.config/alacritty/themes/themes/one_dark.toml"]
+
+[font]
+size = 15
